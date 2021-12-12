@@ -2,4 +2,5 @@
 // https://help.yoyogames.com/hc/en-us/articles/360005277377 for more information
 function Player1State_Dead(){
 	instance_destroy();
+	room_goto(CowWinScreen);
 }
