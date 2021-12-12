@@ -3,10 +3,10 @@
 
 dir = 1;
 jumping = true;
-g = 0.2;  // gravity applied
+g = 0.8;  // gravity applied
 grav = 0; 
 gravMax = 14;  // max falling speed
-gravDelta = 1.2;
+gravDelta = 1.8;
 gravJump = -35;  // jump gravity
 hp = 100;  
 hpMax = 100; 

@@ -18,10 +18,10 @@ hSpeed = (keyRight - keyLeft) * walkSpeed;
 		}
 	}
 	if (grav < 0) {
-		sprite_index = Chicken_Jump;
+		sprite_index = Chicken_Jump1;
 	} else {
 		if (jumping) {
-			sprite_index = Chicken_Jump;
+			sprite_index = Chicken_Jump1;
 		} else {
 			grav = 0;
 		}
@@ -31,12 +31,12 @@ hSpeed = (keyRight - keyLeft) * walkSpeed;
 	
 	if (hSpeed != 0) {
 		image_xscale = sign(hSpeed);
-		if (sprite_index != Chicken_Walk) {
+		if (sprite_index != Chicken_Walk1) {
 			image_index = 2;
 		}
-		sprite_index = Chicken_Walk;
+		sprite_index = Chicken_Walk1;
 	} else {
-		sprite_index = Chicken_Idle;
+		sprite_index = Chicken_Idle1;
 	}
 	
 	if (keyAttack){

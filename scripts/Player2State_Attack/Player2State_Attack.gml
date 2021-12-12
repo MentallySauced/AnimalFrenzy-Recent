@@ -4,13 +4,13 @@ function Player2State_Attack(){
 	hSpeed = 0;
 	grav = 0;
 	
-	if (sprite_index != Cow_Melee_Attack) {
-		sprite_index = Cow_Melee_Attack;
+	if (sprite_index != Cow_Melee_Attack1) {
+		sprite_index = Cow_Melee_Attack1;
 		image_index = 0;
 		ds_list_clear(hitByAttack);
 	}
 	
-	mask_index = Cow_Melee_AttackHB;
+	mask_index = Cow_Melee_AttackHB1;
 	var hitByAttackNow = ds_list_create();
 	var hits = instance_place_list(x, y, oPlayer1, hitByAttackNow, false);
 	if (hits > 0) {
@@ -28,10 +28,10 @@ function Player2State_Attack(){
 	}
 	
 	ds_list_destroy(hitByAttackNow);
-	mask_index = Cow_Idle;
+	mask_index = Cow_Idle1;
 	
 	if (AnimationEnd()) {
-		sprite_index = Cow_Idle;
+		sprite_index = Cow_Idle1;
 		state = PLAYER2STATE.IDLE;
 	}
 }

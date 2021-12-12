@@ -11,6 +11,5 @@ function DealDmgTo1(){
 	} else {
 		state = PLAYER1STATE.DEAD;
 	}
-	//wowzer
 	
 }

@@ -1,13 +1,13 @@
 {
   "spriteId": {
-    "name": "Cow_Idle",
-    "path": "sprites/Cow_Idle/Cow_Idle.yy",
+    "name": "Cow_Idle1",
+    "path": "sprites/Cow_Idle1/Cow_Idle1.yy",
   },
   "solid": false,
   "visible": true,
   "spriteMaskId": {
-    "name": "Cow_Idle",
-    "path": "sprites/Cow_Idle/Cow_Idle.yy",
+    "name": "Cow_Idle1",
+    "path": "sprites/Cow_Idle1/Cow_Idle1.yy",
   },
   "persistent": false,
   "parentObjectId": null,

@@ -1,13 +1,13 @@
 {
   "spriteId": {
-    "name": "Chicken_Idle",
-    "path": "sprites/Chicken_Idle/Chicken_Idle.yy",
+    "name": "Chicken_Idle1",
+    "path": "sprites/Chicken_Idle1/Chicken_Idle1.yy",
   },
   "solid": false,
   "visible": true,
   "spriteMaskId": {
-    "name": "Chicken_Idle",
-    "path": "sprites/Chicken_Idle/Chicken_Idle.yy",
+    "name": "Chicken_Idle1",
+    "path": "sprites/Chicken_Idle1/Chicken_Idle1.yy",
   },
   "persistent": false,
   "parentObjectId": null,
@@ -27,7 +27,8 @@
     {"isDnD":false,"eventNum":0,"eventType":0,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
     {"isDnD":false,"eventNum":0,"eventType":3,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
     {"isDnD":false,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"collision","path":"objects/collision/collision.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
-    {"isDnD":false,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"oPlayer2","path":"objects/oPlayer2/oPlayer2.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"isDnD":false,"eventNum":0,"eventType":12,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"isDnD":false,"eventNum":0,"eventType":7,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
   ],
   "properties": [],
   "overriddenProperties": [],
