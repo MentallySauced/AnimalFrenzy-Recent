@@ -1,5 +1,3 @@
-// Script assets have changed for v2.3.0 see
-// https://help.yoyogames.com/hc/en-us/articles/360005277377 for more information
 function AnimationEnd(){
 /// @description animation_end(sprite_index,image_index, rate)
 /// @param {real} <sprite_index> The index of the sprite being animated

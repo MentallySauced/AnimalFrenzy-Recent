@@ -1,8 +1,8 @@
 // Script assets have changed for v2.3.0 see
 // https://help.yoyogames.com/hc/en-us/articles/360005277377 for more information
 function Player2State_Attack(){
-	hSpeed = 0;
-	grav = 0;
+	x += hSpeed; // Kinda Wonky but it does the job
+	y = y+grav; // Kinda Wonky but it does the job
 	
 	if (sprite_index != Cow_Melee_Attack1) {
 		sprite_index = Cow_Melee_Attack1;

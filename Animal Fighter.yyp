@@ -26,6 +26,7 @@
     {"id":{"name":"collision","path":"objects/collision/collision.yy",},"order":2,},
     {"id":{"name":"Cow_Idle","path":"sprites/Cow_Idle/Cow_Idle.yy",},"order":0,},
     {"id":{"name":"Chicken_Walk1","path":"sprites/Chicken_Walk1/Chicken_Walk1.yy",},"order":11,},
+    {"id":{"name":"approach","path":"scripts/approach/approach.yy",},"order":15,},
     {"id":{"name":"background","path":"sprites/background/background.yy",},"order":3,},
     {"id":{"name":"AnimationEnd","path":"scripts/AnimationEnd/AnimationEnd.yy",},"order":11,},
     {"id":{"name":"Cow_Jump","path":"sprites/Cow_Jump/Cow_Jump.yy",},"order":1,},
