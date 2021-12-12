@@ -6,7 +6,8 @@ function DealDmgTo1(){
 	oPlayer1.hp -= _damage;
 	
 	if (oPlayer1.hp > 0) {
-		state = PLAYER1STATE.HIT;
+		oPlayer1.knockback_speed = knockback;
+		oPlayer1.state = PLAYER1STATE.HIT;
 		hitNow = true;
 	} else {
 		state = PLAYER1STATE.DEAD;

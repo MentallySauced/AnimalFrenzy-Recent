@@ -22,7 +22,6 @@
     {"id":{"name":"Chicken_Jump","path":"sprites/Chicken_Jump/Chicken_Jump.yy",},"order":1,},
     {"id":{"name":"scrPlayer2","path":"scripts/scrPlayer2/scrPlayer2.yy",},"order":1,},
     {"id":{"name":"obj_death","path":"sprites/obj_death/obj_death.yy",},"order":2,},
-    {"id":{"name":"object_death","path":"objects/object_death/object_death.yy",},"order":3,},
     {"id":{"name":"collision","path":"objects/collision/collision.yy",},"order":2,},
     {"id":{"name":"Cow_Idle","path":"sprites/Cow_Idle/Cow_Idle.yy",},"order":0,},
     {"id":{"name":"Chicken_Walk1","path":"sprites/Chicken_Walk1/Chicken_Walk1.yy",},"order":11,},

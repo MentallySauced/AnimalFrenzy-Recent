@@ -16,7 +16,7 @@ hSpeed = 0;
 
 walkSpeed = 8;
 
-knockback_speed = 5;
+knockback = 105;
 
 state = PLAYER1STATE.IDLE;
 hitByAttack = ds_list_create();
