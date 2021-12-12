@@ -66,6 +66,8 @@
     {"id":{"name":"oCreditsButton","path":"objects/oCreditsButton/oCreditsButton.yy",},"order":6,},
     {"id":{"name":"Chicken_Walk","path":"sprites/Chicken_Walk/Chicken_Walk.yy",},"order":10,},
     {"id":{"name":"CreditsScreen","path":"rooms/CreditsScreen/CreditsScreen.yy",},"order":2,},
+    {"id":{"name":"healthbar_color","path":"sprites/healthbar_color/healthbar_color.yy",},"order":19,},
+    {"id":{"name":"healthbar_bd","path":"sprites/healthbar_bd/healthbar_bd.yy",},"order":18,},
     {"id":{"name":"Player1State_Dead","path":"scripts/Player1State_Dead/Player1State_Dead.yy",},"order":10,},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":0,},
   ],

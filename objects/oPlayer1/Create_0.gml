@@ -21,6 +21,7 @@ knockback = 105;
 state = PLAYER1STATE.IDLE;
 hitByAttack = ds_list_create();
 
+
 enum PLAYER1STATE {
 	IDLE,
 	ATTACK,
