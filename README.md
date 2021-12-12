@@ -26,3 +26,22 @@ The other levels will be parts of wood from the barn or shelves, some stacked ha
 This game is geared towards any age and any audience that enjoys competing against other players. 
 The game can be higher level and faster paced or lower level and slower paced, it just depends on the two players that decide to play against each other.
 As mentioned earlier, there are not many built in challenges in the game; therefore, the challenges are mainly dependent upon the players that are interacting with the game.
+
+Cow Controls:
+jump: up arrow 
+move down: down arrow 
+move left: left arrow
+move right: right arrow 
+attack: /
+
+Chicken Controls:
+jump: w
+move down: s
+move left:a
+move right:d
+attack: f
+
+Licensing Reference:
+  Animation_End() script:
+  //Script courtesy of PixellatedPope & Minty Python from the GameMaker subreddit discord 
+  //https://www.reddit.com/r/gamemaker/wiki/discord
