@@ -7,6 +7,7 @@
     {"id":{"name":"CowBullet","path":"sprites/CowBullet/CowBullet.yy",},"order":7,},
     {"id":{"name":"Cow_Melee_Attack","path":"sprites/Cow_Melee_Attack/Cow_Melee_Attack.yy",},"order":2,},
     {"id":{"name":"Cow_Melee_Attack1","path":"sprites/Cow_Melee_Attack1/Cow_Melee_Attack1.yy",},"order":7,},
+    {"id":{"name":"How_to_Play_Screen","path":"sprites/How_to_Play_Screen/How_to_Play_Screen.yy",},"order":10,},
     {"id":{"name":"Sprite16","path":"sprites/Sprite16/Sprite16.yy",},"order":9,},
     {"id":{"name":"Player2State_Attack","path":"scripts/Player2State_Attack/Player2State_Attack.yy",},"order":3,},
     {"id":{"name":"scrPlayer1","path":"scripts/scrPlayer1/scrPlayer1.yy",},"order":0,},
