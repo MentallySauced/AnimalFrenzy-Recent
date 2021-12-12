@@ -8,14 +8,14 @@
   "collisionTolerance": 0,
   "swfPrecision": 2.525,
   "bbox_left": 0,
-  "bbox_right": 1919,
+  "bbox_right": 206,
   "bbox_top": 0,
-  "bbox_bottom": 1079,
+  "bbox_bottom": 93,
   "HTile": false,
   "VTile": false,
   "For3D": false,
-  "width": 1920,
-  "height": 1080,
+  "width": 207,
+  "height": 94,
   "textureGroupId": {
     "name": "Default",
     "path": "texturegroups/Default",
@@ -24,12 +24,12 @@
   "gridX": 0,
   "gridY": 0,
   "frames": [
-    {"compositeImage":{"FrameId":{"name":"3608186f-0a9b-4d82-ae23-9bfbc3145a4e","path":"sprites/How_to_Play_Screen/How_to_Play_Screen.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"3608186f-0a9b-4d82-ae23-9bfbc3145a4e","path":"sprites/How_to_Play_Screen/How_to_Play_Screen.yy",},"LayerId":{"name":"7c4d8d23-d32b-4fa0-b20a-ddcdf68745ae","path":"sprites/How_to_Play_Screen/How_to_Play_Screen.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"How_to_Play_Screen","path":"sprites/How_to_Play_Screen/How_to_Play_Screen.yy",},"resourceVersion":"1.0","name":"3608186f-0a9b-4d82-ae23-9bfbc3145a4e","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"86205936-65c6-49fb-ae94-e1bfc8544a34","path":"sprites/StartButton/StartButton.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"86205936-65c6-49fb-ae94-e1bfc8544a34","path":"sprites/StartButton/StartButton.yy",},"LayerId":{"name":"20744968-ef29-4cef-80d0-06303265278e","path":"sprites/StartButton/StartButton.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"StartButton","path":"sprites/StartButton/StartButton.yy",},"resourceVersion":"1.0","name":"86205936-65c6-49fb-ae94-e1bfc8544a34","tags":[],"resourceType":"GMSpriteFrame",},
   ],
   "sequence": {
-    "spriteId": {"name":"How_to_Play_Screen","path":"sprites/How_to_Play_Screen/How_to_Play_Screen.yy",},
+    "spriteId": {"name":"StartButton","path":"sprites/StartButton/StartButton.yy",},
     "timeUnits": 1,
     "playback": 1,
     "playbackSpeed": 30.0,
@@ -41,7 +41,7 @@
     "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
       {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
-            {"id":"74acaecf-99f1-4af6-8118-412680d445ce","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"3608186f-0a9b-4d82-ae23-9bfbc3145a4e","path":"sprites/How_to_Play_Screen/How_to_Play_Screen.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"544e8efd-ece4-44da-a59e-4edc00e1a7d6","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"86205936-65c6-49fb-ae94-e1bfc8544a34","path":"sprites/StartButton/StartButton.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
           ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"modifiers":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack",},
     ],
     "visibleRange": null,
@@ -58,14 +58,14 @@
     "yorigin": 0,
     "eventToFunction": {},
     "eventStubScript": null,
-    "parent": {"name":"How_to_Play_Screen","path":"sprites/How_to_Play_Screen/How_to_Play_Screen.yy",},
+    "parent": {"name":"StartButton","path":"sprites/StartButton/StartButton.yy",},
     "resourceVersion": "1.3",
-    "name": "How_to_Play_Screen",
+    "name": "StartButton",
     "tags": [],
     "resourceType": "GMSequence",
   },
   "layers": [
-    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"7c4d8d23-d32b-4fa0-b20a-ddcdf68745ae","tags":[],"resourceType":"GMImageLayer",},
+    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"20744968-ef29-4cef-80d0-06303265278e","tags":[],"resourceType":"GMImageLayer",},
   ],
   "nineSlice": null,
   "parent": {
@@ -73,7 +73,7 @@
     "path": "folders/Sprites.yy",
   },
   "resourceVersion": "1.0",
-  "name": "How_to_Play_Screen",
+  "name": "StartButton",
   "tags": [],
   "resourceType": "GMSprite",
 }

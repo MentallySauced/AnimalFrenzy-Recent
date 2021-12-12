@@ -24,12 +24,12 @@
   "gridX": 0,
   "gridY": 0,
   "frames": [
-    {"compositeImage":{"FrameId":{"name":"3608186f-0a9b-4d82-ae23-9bfbc3145a4e","path":"sprites/How_to_Play_Screen/How_to_Play_Screen.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"3608186f-0a9b-4d82-ae23-9bfbc3145a4e","path":"sprites/How_to_Play_Screen/How_to_Play_Screen.yy",},"LayerId":{"name":"7c4d8d23-d32b-4fa0-b20a-ddcdf68745ae","path":"sprites/How_to_Play_Screen/How_to_Play_Screen.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"How_to_Play_Screen","path":"sprites/How_to_Play_Screen/How_to_Play_Screen.yy",},"resourceVersion":"1.0","name":"3608186f-0a9b-4d82-ae23-9bfbc3145a4e","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"9c8a2875-9656-4102-a7f6-9d0d8e6b2743","path":"sprites/ChickenWin/ChickenWin.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"9c8a2875-9656-4102-a7f6-9d0d8e6b2743","path":"sprites/ChickenWin/ChickenWin.yy",},"LayerId":{"name":"99e4d826-e138-457f-ae95-4443641d91df","path":"sprites/ChickenWin/ChickenWin.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"ChickenWin","path":"sprites/ChickenWin/ChickenWin.yy",},"resourceVersion":"1.0","name":"9c8a2875-9656-4102-a7f6-9d0d8e6b2743","tags":[],"resourceType":"GMSpriteFrame",},
   ],
   "sequence": {
-    "spriteId": {"name":"How_to_Play_Screen","path":"sprites/How_to_Play_Screen/How_to_Play_Screen.yy",},
+    "spriteId": {"name":"ChickenWin","path":"sprites/ChickenWin/ChickenWin.yy",},
     "timeUnits": 1,
     "playback": 1,
     "playbackSpeed": 30.0,
@@ -41,7 +41,7 @@
     "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
       {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
-            {"id":"74acaecf-99f1-4af6-8118-412680d445ce","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"3608186f-0a9b-4d82-ae23-9bfbc3145a4e","path":"sprites/How_to_Play_Screen/How_to_Play_Screen.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"25dfb0cf-bcf4-423f-8dc1-47e3558ff294","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"9c8a2875-9656-4102-a7f6-9d0d8e6b2743","path":"sprites/ChickenWin/ChickenWin.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
           ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"modifiers":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack",},
     ],
     "visibleRange": null,
@@ -58,14 +58,14 @@
     "yorigin": 0,
     "eventToFunction": {},
     "eventStubScript": null,
-    "parent": {"name":"How_to_Play_Screen","path":"sprites/How_to_Play_Screen/How_to_Play_Screen.yy",},
+    "parent": {"name":"ChickenWin","path":"sprites/ChickenWin/ChickenWin.yy",},
     "resourceVersion": "1.3",
-    "name": "How_to_Play_Screen",
+    "name": "ChickenWin",
     "tags": [],
     "resourceType": "GMSequence",
   },
   "layers": [
-    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"7c4d8d23-d32b-4fa0-b20a-ddcdf68745ae","tags":[],"resourceType":"GMImageLayer",},
+    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"99e4d826-e138-457f-ae95-4443641d91df","tags":[],"resourceType":"GMImageLayer",},
   ],
   "nineSlice": null,
   "parent": {
@@ -73,7 +73,7 @@
     "path": "folders/Sprites.yy",
   },
   "resourceVersion": "1.0",
-  "name": "How_to_Play_Screen",
+  "name": "ChickenWin",
   "tags": [],
   "resourceType": "GMSprite",
 }
