@@ -2,6 +2,6 @@
 // You can write your code in this editor
 
 grav = 0;
-sprite_index = Chicken_Idle;
+sprite_index = Chicken_Idle1;
 jumping = false;
 falling = false;

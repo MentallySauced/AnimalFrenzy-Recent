@@ -7,15 +7,15 @@
   "edgeFiltering": false,
   "collisionTolerance": 0,
   "swfPrecision": 2.525,
-  "bbox_left": 226,
-  "bbox_right": 572,
-  "bbox_top": 0,
-  "bbox_bottom": 824,
+  "bbox_left": 325,
+  "bbox_right": 671,
+  "bbox_top": 89,
+  "bbox_bottom": 947,
   "HTile": false,
   "VTile": false,
   "For3D": false,
-  "width": 825,
-  "height": 825,
+  "width": 1024,
+  "height": 1024,
   "textureGroupId": {
     "name": "Default",
     "path": "texturegroups/Default",
@@ -24,15 +24,18 @@
   "gridX": 0,
   "gridY": 0,
   "frames": [
-    {"compositeImage":{"FrameId":{"name":"2499979b-3117-4f66-9bca-f2211948d692","path":"sprites/Chicken_Walk/Chicken_Walk.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"2499979b-3117-4f66-9bca-f2211948d692","path":"sprites/Chicken_Walk/Chicken_Walk.yy",},"LayerId":{"name":"f5df9733-80e1-4bf8-a3df-2bd0f9638893","path":"sprites/Chicken_Walk/Chicken_Walk.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"Chicken_Walk","path":"sprites/Chicken_Walk/Chicken_Walk.yy",},"resourceVersion":"1.0","name":"2499979b-3117-4f66-9bca-f2211948d692","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"50959aaa-57e4-472a-b1bf-97a340bfb83e","path":"sprites/Chicken_Walk/Chicken_Walk.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"50959aaa-57e4-472a-b1bf-97a340bfb83e","path":"sprites/Chicken_Walk/Chicken_Walk.yy",},"LayerId":{"name":"f5df9733-80e1-4bf8-a3df-2bd0f9638893","path":"sprites/Chicken_Walk/Chicken_Walk.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"Chicken_Walk","path":"sprites/Chicken_Walk/Chicken_Walk.yy",},"resourceVersion":"1.0","name":"50959aaa-57e4-472a-b1bf-97a340bfb83e","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"299c156a-78d9-42c4-af30-7cd1f059c314","path":"sprites/Chicken_Walk/Chicken_Walk.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"299c156a-78d9-42c4-af30-7cd1f059c314","path":"sprites/Chicken_Walk/Chicken_Walk.yy",},"LayerId":{"name":"f5df9733-80e1-4bf8-a3df-2bd0f9638893","path":"sprites/Chicken_Walk/Chicken_Walk.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"Chicken_Walk","path":"sprites/Chicken_Walk/Chicken_Walk.yy",},"resourceVersion":"1.0","name":"299c156a-78d9-42c4-af30-7cd1f059c314","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"3afb63d5-a9b8-4354-ab14-ce46ec10d0c8","path":"sprites/Chicken_Walk/Chicken_Walk.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"3afb63d5-a9b8-4354-ab14-ce46ec10d0c8","path":"sprites/Chicken_Walk/Chicken_Walk.yy",},"LayerId":{"name":"1d080a4c-bc5f-4f07-964d-19f90442415d","path":"sprites/Chicken_Walk/Chicken_Walk.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"Chicken_Walk","path":"sprites/Chicken_Walk/Chicken_Walk.yy",},"resourceVersion":"1.0","name":"3afb63d5-a9b8-4354-ab14-ce46ec10d0c8","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"802ac7de-39e5-4675-9b83-359708440cc7","path":"sprites/Chicken_Walk/Chicken_Walk.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"802ac7de-39e5-4675-9b83-359708440cc7","path":"sprites/Chicken_Walk/Chicken_Walk.yy",},"LayerId":{"name":"1d080a4c-bc5f-4f07-964d-19f90442415d","path":"sprites/Chicken_Walk/Chicken_Walk.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"Chicken_Walk","path":"sprites/Chicken_Walk/Chicken_Walk.yy",},"resourceVersion":"1.0","name":"802ac7de-39e5-4675-9b83-359708440cc7","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"8d4d37f5-57b6-4bd5-b149-a6cd3906c0ba","path":"sprites/Chicken_Walk/Chicken_Walk.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"8d4d37f5-57b6-4bd5-b149-a6cd3906c0ba","path":"sprites/Chicken_Walk/Chicken_Walk.yy",},"LayerId":{"name":"1d080a4c-bc5f-4f07-964d-19f90442415d","path":"sprites/Chicken_Walk/Chicken_Walk.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"Chicken_Walk","path":"sprites/Chicken_Walk/Chicken_Walk.yy",},"resourceVersion":"1.0","name":"8d4d37f5-57b6-4bd5-b149-a6cd3906c0ba","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"a7b972ed-f997-403c-8180-b1c18934590c","path":"sprites/Chicken_Walk/Chicken_Walk.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"a7b972ed-f997-403c-8180-b1c18934590c","path":"sprites/Chicken_Walk/Chicken_Walk.yy",},"LayerId":{"name":"1d080a4c-bc5f-4f07-964d-19f90442415d","path":"sprites/Chicken_Walk/Chicken_Walk.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"Chicken_Walk","path":"sprites/Chicken_Walk/Chicken_Walk.yy",},"resourceVersion":"1.0","name":"a7b972ed-f997-403c-8180-b1c18934590c","tags":[],"resourceType":"GMSpriteFrame",},
   ],
   "sequence": {
     "spriteId": {"name":"Chicken_Walk","path":"sprites/Chicken_Walk/Chicken_Walk.yy",},
@@ -42,14 +45,15 @@
     "playbackSpeedType": 0,
     "autoRecord": true,
     "volume": 1.0,
-    "length": 3.0,
+    "length": 4.0,
     "events": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MessageEventKeyframe>",},
     "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
       {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
-            {"id":"4223f3e7-ad8f-4820-bc2d-93f331619ea3","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"2499979b-3117-4f66-9bca-f2211948d692","path":"sprites/Chicken_Walk/Chicken_Walk.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
-            {"id":"fbd00721-6069-4665-aca2-9e7ad24233b1","Key":1.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"50959aaa-57e4-472a-b1bf-97a340bfb83e","path":"sprites/Chicken_Walk/Chicken_Walk.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
-            {"id":"dab38e3a-4fbc-486e-9adb-39757e6d2bad","Key":2.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"299c156a-78d9-42c4-af30-7cd1f059c314","path":"sprites/Chicken_Walk/Chicken_Walk.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"d65ee96b-a62c-41f4-a73b-fe8dbcf62ac3","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"3afb63d5-a9b8-4354-ab14-ce46ec10d0c8","path":"sprites/Chicken_Walk/Chicken_Walk.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"6165dcc6-09d4-4e2a-a799-01bc585e45f0","Key":1.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"802ac7de-39e5-4675-9b83-359708440cc7","path":"sprites/Chicken_Walk/Chicken_Walk.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"b5b3db1a-245c-430e-b143-07bbff00d80d","Key":2.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"8d4d37f5-57b6-4bd5-b149-a6cd3906c0ba","path":"sprites/Chicken_Walk/Chicken_Walk.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"de3cd421-9784-4e6b-82d8-1250bb4f00b9","Key":3.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"a7b972ed-f997-403c-8180-b1c18934590c","path":"sprites/Chicken_Walk/Chicken_Walk.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
           ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack","modifiers":[],},
     ],
     "visibleRange": null,
@@ -62,7 +66,7 @@
     "backdropHeight": 768,
     "backdropXOffset": 0.0,
     "backdropYOffset": 0.0,
-    "xorigin": 412,
+    "xorigin": 512,
     "yorigin": 0,
     "eventToFunction": {},
     "eventStubScript": null,
@@ -73,7 +77,7 @@
     "resourceType": "GMSequence",
   },
   "layers": [
-    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"f5df9733-80e1-4bf8-a3df-2bd0f9638893","tags":[],"resourceType":"GMImageLayer",},
+    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"1d080a4c-bc5f-4f07-964d-19f90442415d","tags":[],"resourceType":"GMImageLayer",},
   ],
   "nineSlice": null,
   "parent": {
