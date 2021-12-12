@@ -83,8 +83,8 @@
     "children": [],
   },
   "RoomOrderNodes": [
-    {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
     {"roomId":{"name":"StartScreen","path":"rooms/StartScreen/StartScreen.yy",},},
+    {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
     {"roomId":{"name":"CreditsScreen","path":"rooms/CreditsScreen/CreditsScreen.yy",},},
     {"roomId":{"name":"HowToPlayScreen","path":"rooms/HowToPlayScreen/HowToPlayScreen.yy",},},
     {"roomId":{"name":"ChickenWinScreen","path":"rooms/ChickenWinScreen/ChickenWinScreen.yy",},},
